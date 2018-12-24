@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Economica Bold', arial;
+    src: url(http://allfont.ru/allfont.css?fonts=economica-bold);
+    font-style: normal;
+    font-style: normal;
+}
+div {
+background-color: blueviolet;
+display: inline-block;
+margin-left: 20px;
+}
+a {
+ text-decoration: none;
+font-size: 10x;
+margin-left: 20px;
+}
+

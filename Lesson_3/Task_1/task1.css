@@ -1,0 +1,56 @@
+h1
+{
+    font-weight: bolder;
+    color: orange;
+    text-align: right;
+}
+p:first-letter
+    {
+        font-size: 30px;
+        color: red;     
+}
+p 
+{
+    font-weight: bolder;
+}
+em
+ {
+    background-color: green;
+    color: white;
+}
+#allotment
+h2
+{ 
+    font-weight: bolder;
+    color: orange;
+}
+#allotment
+.fruits-list
+    {
+    color: grey;
+    }
+#allotment
+.vegetables-list  
+    {
+   color: red;
+}
+li
+{
+    font-weight: bolder;
+}
+#warehouse
+h2
+{ 
+    font-weight: bolder;
+    color: blue;
+}
+#warehouse
+.fruits-list
+    {
+    color: green;
+    }
+    #warehouse
+    .vegetables-list  
+    {
+   color: red;
+}

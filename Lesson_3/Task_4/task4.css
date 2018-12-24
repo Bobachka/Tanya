@@ -1,0 +1,6 @@
+td:nth-child(n+2):nth-child(odd){
+    background-color: #f2f2de;
+}
+td:first-of-type{
+    background-color: #ddebf7;
+}
